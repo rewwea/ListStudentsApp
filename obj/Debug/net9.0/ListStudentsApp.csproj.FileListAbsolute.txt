@@ -1,0 +1,14 @@
+/Users/rewwea/Documents/code/C#/ListStudentsApp/bin/Debug/net9.0/ListStudentsApp
+/Users/rewwea/Documents/code/C#/ListStudentsApp/bin/Debug/net9.0/ListStudentsApp.deps.json
+/Users/rewwea/Documents/code/C#/ListStudentsApp/bin/Debug/net9.0/ListStudentsApp.runtimeconfig.json
+/Users/rewwea/Documents/code/C#/ListStudentsApp/bin/Debug/net9.0/ListStudentsApp.dll
+/Users/rewwea/Documents/code/C#/ListStudentsApp/bin/Debug/net9.0/ListStudentsApp.pdb
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/ListStudentsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/ListStudentsApp.AssemblyInfoInputs.cache
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/ListStudentsApp.AssemblyInfo.cs
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/ListStudentsApp.csproj.CoreCompileInputs.cache
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/ListStudentsApp.dll
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/refint/ListStudentsApp.dll
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/ListStudentsApp.pdb
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/ListStudentsApp.genruntimeconfig.cache
+/Users/rewwea/Documents/code/C#/ListStudentsApp/obj/Debug/net9.0/ref/ListStudentsApp.dll
